@@ -1,4 +1,4 @@
-// scripts.js
+/*// scripts.js
 
 // Function to set up the video player
 function setupVideoPlayer() {
@@ -58,4 +58,4 @@ function setupVideoPlayer() {
 }
 
 // Call the function to set up the video player once the DOM content is loaded
-document.addEventListener('DOMContentLoaded', setupVideoPlayer);
+document.addEventListener('DOMContentLoaded', setupVideoPlayer);*/
